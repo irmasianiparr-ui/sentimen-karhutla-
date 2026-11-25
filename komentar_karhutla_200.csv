@@ -1,0 +1,201 @@
+id,komentar,sentimen
+1,"Lahan yang terbakar membuat saya sedih, kasihan warganya.",sedih
+2,"Marah melihat hutan kita dijadikan korban keserakahan, tolong usut dan tindak tegas.",marah
+3,"Asap karhutla membuat udara sulit dihirup, kasihan warganya.",sedih
+4,"Perusahaan yang lalai bikin saya geram, geram sekali!",marah
+5,"Karhutla ini harus diusut tuntas, warga yang menderita.",marah
+6,"Geram, anak sekolah diliburkan karena asap, tapi tidak ada tindakan tegas kepada pembakarnya.",marah
+7,Pembakaran lahan ini membuat rakyat jadi korban.,marah
+8,Lahan yang terbakar membuat saya sedih di kampung kami.,sedih
+9,"Pemerintah yang lalai bikin saya geram, kapan ada tindakan tegas?",marah
+10,"Lahan yang terbakar membuat udara sulit dihirup, semoga cepat pulih.",sedih
+11,"Warga yang terdampak bikin hati pilu, hati saya berat melihatnya.",sedih
+12,Asap karhutla merusak kehidupan banyak makhluk hidup.,sedih
+13,"Pemerintah yang lalai sudah keterlaluan, tolong tindak pelakunya!",marah
+14,"Hutan yang hangus membuat warga kehilangan harapan, semoga cepat pulih.",sedih
+15,"Karhutla ini dibiarkan terus berulang, geram sekali!",marah
+16,"Asap karhutla menyisakan luka bagi warga kecil, kasihan warganya.",sedih
+17,"Kabar karhutla membuat saya sedih, semoga cepat pulih.",sedih
+18,"Perusahaan yang lalai bikin saya geram, warga yang menderita.",marah
+19,"Karhutla ini bikin saya geram, warga yang menderita.",marah
+20,"Pembiaran karhutla dibiarkan terus berulang, tolong tindak pelakunya!",marah
+21,"Pelaku pembakaran dibiarkan terus berulang, geram sekali!",marah
+22,"Hewan-hewan liar yang keluar dari hutan kelaparan dan kehilangan arah, kasihan sekali.",sedih
+23,"Karhutla ini bikin saya geram, geram sekali!",marah
+24,Lahan yang terbakar merusak kehidupan banyak makhluk hidup di kampung kami.,sedih
+25,"Asap karhutla membuat saya sedih, hati saya berat melihatnya.",sedih
+26,Warga yang terdampak membuat udara sulit dihirup di kampung kami.,sedih
+27,"Asap karhutla menyisakan luka bagi warga kecil, hati saya berat melihatnya.",sedih
+28,"Kabar karhutla membuat udara sulit dihirup, hati saya berat melihatnya.",sedih
+29,"Kabar karhutla membuat saya sedih, kasihan warganya.",sedih
+30,Warga yang terdampak membuat warga kehilangan harapan.,sedih
+31,"Pembiaran karhutla bikin saya geram, tolong tindak pelakunya!",marah
+32,Karhutla ini bikin saya geram setiap tahun.,marah
+33,"Saya kesal, sistem peringatan dini sudah ada tapi respons di lapangan tetap lambat.",marah
+34,Warga yang terdampak membuat saya sedih.,sedih
+35,"Pemerintah yang lalai bikin saya geram, geram sekali!",marah
+36,Kebakaran hutan ini membuat udara sulit dihirup di kampung kami.,sedih
+37,"Warga yang terdampak bikin hati pilu, sedih sekali.",sedih
+38,"Perusahaan yang lalai sudah keterlaluan, geram sekali!",marah
+39,"Pelaku pembakaran dibiarkan terus berulang, kapan ada tindakan tegas?",marah
+40,"Kebakaran hutan ini membuat warga kehilangan harapan, semoga cepat pulih.",sedih
+41,"Kabar karhutla bikin hati pilu, kasihan warganya.",sedih
+42,"Lahan yang terbakar membuat saya sedih, semoga cepat pulih.",sedih
+43,"Perusahaan yang lalai membuat rakyat jadi korban, geram sekali!",marah
+44,Pemerintah yang lalai dibiarkan terus berulang setiap tahun.,marah
+45,"Pembakaran lahan ini bikin saya geram, geram sekali!",marah
+46,"Asap karhutla membuat saya sedih, kasihan warganya.",sedih
+47,"Hutan yang hangus membuat saya sedih, semoga cepat pulih.",sedih
+48,"Warga yang terdampak merusak kehidupan banyak makhluk hidup, semoga cepat pulih.",sedih
+49,"Pelaku pembakaran harus diusut tuntas, tolong tindak pelakunya!",marah
+50,"Perusahaan yang lalai menunjukkan lemahnya penegakan hukum, tolong tindak pelakunya!",marah
+51,Kabar karhutla membuat udara sulit dihirup di kampung kami.,sedih
+52,"Pembakaran lahan ini harus diusut tuntas, kapan ada tindakan tegas?",marah
+53,"Lahan yang terbakar bikin hati pilu, sedih sekali.",sedih
+54,"Hutan yang hangus menyisakan luka bagi warga kecil, semoga cepat pulih.",sedih
+55,Kabar karhutla membuat udara sulit dihirup.,sedih
+56,"Marah! Setiap tahun kejadian yang sama, tapi tidak ada pembelajaran dari pemerintah.",marah
+57,"Pembakaran lahan ini dibiarkan terus berulang, warga yang menderita.",marah
+58,Pemerintah yang lalai bikin saya geram.,marah
+59,Kebakaran ini meninggalkan luka mendalam bagi warga yang kehilangan tempat tinggal.,sedih
+60,"Pelaku pembakaran sudah keterlaluan, kapan ada tindakan tegas?",marah
+61,"Hutan yang hangus membuat udara sulit dihirup, hati saya berat melihatnya.",sedih
+62,"Air sungai menghitam karena abu, ikan-ikan mati dan nelayan kehilangan mata pencaharian.",sedih
+63,"Warga yang terdampak membuat warga kehilangan harapan, sedih sekali.",sedih
+64,"Geram melihat warga sendiri yang menanggung kerugian, padahal bukan mereka yang membakar.",marah
+65,Petani di kampung saya gagal panen lagi karena lahannya terbakar dan tanahnya rusak.,sedih
+66,Perusahaan yang lalai menunjukkan lemahnya penegakan hukum setiap tahun.,marah
+67,"Lahan yang terbakar membuat warga kehilangan harapan, sedih sekali.",sedih
+68,"Hutan yang hangus membuat udara sulit dihirup, sedih sekali.",sedih
+69,"Kebakaran hutan selalu datang setiap tahun, dan warga kecil yang paling merasakan akibatnya.",sedih
+70,Lahan yang terbakar membuat saya sedih.,sedih
+71,"Kebakaran hutan ini membuat warga kehilangan harapan, kasihan warganya.",sedih
+72,"Hutan yang hangus membuat warga kehilangan harapan, sedih sekali.",sedih
+73,Warga yang terdampak membuat warga kehilangan harapan di kampung kami.,sedih
+74,Pemerintah yang lalai membuat rakyat jadi korban setiap tahun.,marah
+75,"Warga yang terdampak membuat udara sulit dihirup, sedih sekali.",sedih
+76,"Lahan yang terbakar membuat warga kehilangan harapan, kasihan warganya.",sedih
+77,Pemerintah yang lalai dibiarkan terus berulang.,marah
+78,Pelaku pembakaran harus diusut tuntas setiap tahun.,marah
+79,"Saya kesal karena pemadaman dilakukan dengan alat seadanya, sementara anggaran besar disebut-sebut.",marah
+80,"Kebakaran hutan ini merusak kehidupan banyak makhluk hidup, kasihan warganya.",sedih
+81,Pembiaran karhutla bikin saya geram setiap tahun.,marah
+82,Karhutla ini membuat rakyat jadi korban.,marah
+83,"Lihat video hutan yang terbakar dan hewan yang lari kepanasan, air mata saya jatuh.",sedih
+84,"Pemerintah yang lalai menunjukkan lemahnya penegakan hukum, geram sekali!",marah
+85,"Asap karhutla membuat warga kehilangan harapan, kasihan warganya.",sedih
+86,"Pembiaran karhutla membuat rakyat jadi korban, kapan ada tindakan tegas?",marah
+87,Kabar karhutla membuat warga kehilangan harapan.,sedih
+88,"Penegakan hukumnya lemah, perusahaan yang diduga membakar lahan harus dihukum berat!",marah
+89,Pemerintah yang lalai membuat rakyat jadi korban.,marah
+90,"Perusahaan yang lalai dibiarkan terus berulang, kapan ada tindakan tegas?",marah
+91,"Kesal, pengawasan lahan konsesi terkesan formalitas saja, asap tetap datang tiap tahun.",marah
+92,Membayangkan orangutan dan burung-burung yang kehilangan habitatnya membuat saya sedih.,sedih
+93,Hutan yang hangus menyisakan luka bagi warga kecil.,sedih
+94,"Pelaku pembakaran harus diusut tuntas, geram sekali!",marah
+95,Hutan yang hangus bikin hati pilu.,sedih
+96,Asap karhutla membuat udara sulit dihirup di kampung kami.,sedih
+97,"Kabar karhutla menyisakan luka bagi warga kecil, sedih sekali.",sedih
+98,Karhutla ini dibiarkan terus berulang setiap tahun.,marah
+99,Pembakaran lahan ini sudah keterlaluan.,marah
+100,"Perusahaan yang lalai harus diusut tuntas, geram sekali!",marah
+101,"Warga yang terdampak membuat saya sedih, hati saya berat melihatnya.",sedih
+102,Pembakaran lahan ini menunjukkan lemahnya penegakan hukum.,marah
+103,Kabar karhutla menyisakan luka bagi warga kecil di kampung kami.,sedih
+104,"Karhutla ini menunjukkan lemahnya penegakan hukum, warga yang menderita.",marah
+105,Pelaku pembakaran harus diusut tuntas.,marah
+106,"Karhutla ini dibiarkan terus berulang, warga yang menderita.",marah
+107,Perusahaan yang lalai harus diusut tuntas.,marah
+108,Kebakaran hutan ini membuat warga kehilangan harapan di kampung kami.,sedih
+109,Kebakaran hutan ini membuat udara sulit dihirup.,sedih
+110,"Perusahaan yang lalai bikin saya geram, kapan ada tindakan tegas?",marah
+111,"Hutan yang hangus merusak kehidupan banyak makhluk hidup, semoga cepat pulih.",sedih
+112,"Pelaku pembakaran sudah keterlaluan, warga yang menderita.",marah
+113,Pelaku pembakaran dibiarkan terus berulang.,marah
+114,"Pembiaran karhutla harus diusut tuntas, geram sekali!",marah
+115,Perusahaan yang lalai membuat rakyat jadi korban.,marah
+116,Perusahaan yang lalai membuat rakyat jadi korban setiap tahun.,marah
+117,Pelaku pembakaran menunjukkan lemahnya penegakan hukum.,marah
+118,"Perusahaan yang lalai harus diusut tuntas, warga yang menderita.",marah
+119,"Hutan yang hangus membuat udara sulit dihirup, kasihan warganya.",sedih
+120,"Warga yang terdampak membuat warga kehilangan harapan, hati saya berat melihatnya.",sedih
+121,Pembiaran karhutla menunjukkan lemahnya penegakan hukum setiap tahun.,marah
+122,"Warga yang terdampak menyisakan luka bagi warga kecil, hati saya berat melihatnya.",sedih
+123,Marah melihat hutan dikonversi jadi perkebunan sementara kebakaran terus terjadi di sana.,marah
+124,"Desa kami sudah kehilangan banyak lahan, dan hati kami ikut hancur melihatnya.",sedih
+125,"Lahan yang terbakar menyisakan luka bagi warga kecil, kasihan warganya.",sedih
+126,"Pembakaran lahan ini sudah keterlaluan, geram sekali!",marah
+127,"Lahan yang terbakar membuat warga kehilangan harapan, hati saya berat melihatnya.",sedih
+128,"Kebakaran ini membuat kampung saya sepi, banyak warga mengungsi dengan barang seadanya.",sedih
+129,"Pelaku pembakaran membuat rakyat jadi korban, tolong tindak pelakunya!",marah
+130,Hutan yang hangus membuat saya sedih di kampung kami.,sedih
+131,"Hutan yang hangus menyisakan luka bagi warga kecil, sedih sekali.",sedih
+132,"Sudah keterlaluan, rakyat disuruh pakai masker sendiri sementara pembakar tidak ditangkap.",marah
+133,"Kabar karhutla membuat warga kehilangan harapan, semoga cepat pulih.",sedih
+134,Ini kejahatan lingkungan! Siapa pun yang membakar hutan harus diproses hukum tanpa pandang bulu.,marah
+135,Pembakaran lahan ini dibiarkan terus berulang setiap tahun.,marah
+136,Kenapa tidak ada sanksi tegas bagi korporasi yang lalai menjaga lahannya? Sungguh keterlaluan.,marah
+137,"Hutan yang hangus menyisakan luka bagi warga kecil, hati saya berat melihatnya.",sedih
+138,"Pelaku pembakaran menunjukkan lemahnya penegakan hukum, geram sekali!",marah
+139,Karhutla ini menunjukkan lemahnya penegakan hukum.,marah
+140,"Asap karhutla merusak kehidupan banyak makhluk hidup, sedih sekali.",sedih
+141,Warga yang terdampak membuat saya sedih di kampung kami.,sedih
+142,"Perusahaan yang lalai menunjukkan lemahnya penegakan hukum, geram sekali!",marah
+143,Pembiaran karhutla menunjukkan lemahnya penegakan hukum.,marah
+144,"Lahan yang terbakar membuat udara sulit dihirup, sedih sekali.",sedih
+145,"Pembakaran lahan ini sudah keterlaluan, warga yang menderita.",marah
+146,Kebakaran hutan ini membuat saya sedih.,sedih
+147,Pembiaran karhutla dibiarkan terus berulang setiap tahun.,marah
+148,"Karhutla ini harus diusut tuntas, kapan ada tindakan tegas?",marah
+149,"Pembakaran lahan ini dibiarkan terus berulang, geram sekali!",marah
+150,"Asap karhutla bikin hati pilu, kasihan warganya.",sedih
+151,"Pembakaran lahan ini bikin saya geram, tolong tindak pelakunya!",marah
+152,Hutan yang hangus merusak kehidupan banyak makhluk hidup di kampung kami.,sedih
+153,"Hutan yang hangus merusak kehidupan banyak makhluk hidup, sedih sekali.",sedih
+154,Kebakaran hutan ini menyisakan luka bagi warga kecil di kampung kami.,sedih
+155,Sedih karena hutan adat yang dijaga leluhur kami sekarang habis dilalap api.,sedih
+156,"Saya marah, pembakaran lahan dilakukan sengaja untuk membuka kebun, sementara warga yang menanggung asapnya.",marah
+157,"Hutan yang hangus bikin hati pilu, hati saya berat melihatnya.",sedih
+158,Pembiaran karhutla dibiarkan terus berulang.,marah
+159,"Lahan yang terbakar bikin hati pilu, kasihan warganya.",sedih
+160,"Pemerintah yang lalai dibiarkan terus berulang, tolong tindak pelakunya!",marah
+161,"Hutan yang hangus bikin hati pilu, semoga cepat pulih.",sedih
+162,Asap karhutla menyisakan luka bagi warga kecil di kampung kami.,sedih
+163,"Warga yang terdampak bikin hati pilu, kasihan warganya.",sedih
+164,Lahan yang terbakar membuat udara sulit dihirup.,sedih
+165,Kabar karhutla menyisakan luka bagi warga kecil.,sedih
+166,"Karhutla ini harus diusut tuntas, geram sekali!",marah
+167,"Kesal, setiap ada kebakaran selalu ada alasan, tapi tidak pernah ada yang bertanggung jawab.",marah
+168,Warga yang terdampak bikin hati pilu di kampung kami.,sedih
+169,"Hutan yang hangus membuat saya sedih, sedih sekali.",sedih
+170,"Pemerintah yang lalai harus diusut tuntas, geram sekali!",marah
+171,"Pelaku pembakaran bikin saya geram, warga yang menderita.",marah
+172,"Pembiaran karhutla membuat rakyat jadi korban, geram sekali!",marah
+173,Pembakaran lahan ini membuat rakyat jadi korban setiap tahun.,marah
+174,Pemerintah yang lalai menunjukkan lemahnya penegakan hukum.,marah
+175,"Warga yang terdampak menyisakan luka bagi warga kecil, semoga cepat pulih.",sedih
+176,"Kebakaran hutan ini membuat saya sedih, hati saya berat melihatnya.",sedih
+177,"Karhutla ini membuat rakyat jadi korban, kapan ada tindakan tegas?",marah
+178,"Kebakaran hutan ini membuat warga kehilangan harapan, hati saya berat melihatnya.",sedih
+179,"Asapnya sudah berminggu-minggu, anak-anak di desa tidak bisa bermain di luar. Sedih sekali.",sedih
+180,"Karhutla ini membuat rakyat jadi korban, geram sekali!",marah
+181,"Pembakaran lahan ini membuat rakyat jadi korban, warga yang menderita.",marah
+182,"Pembiaran karhutla bikin saya geram, warga yang menderita.",marah
+183,Pembakaran lahan ini menunjukkan lemahnya penegakan hukum setiap tahun.,marah
+184,"Warga yang terdampak menyisakan luka bagi warga kecil, sedih sekali.",sedih
+185,"Kesal sekali, pemerintah selalu berjanji mencegah karhutla tapi asap tetap saja datang setiap musim kemarau.",marah
+186,Pelaku pembakaran dibiarkan terus berulang setiap tahun.,marah
+187,Lahan yang terbakar bikin hati pilu di kampung kami.,sedih
+188,Kasihan tukang ojek dan pedagang kecil yang omzetnya turun drastis karena asap.,sedih
+189,Pemerintah yang lalai sudah keterlaluan.,marah
+190,Karhutla ini dibiarkan terus berulang.,marah
+191,"Lahan yang terbakar membuat saya sedih, sedih sekali.",sedih
+192,"Kebakaran hutan ini bikin hati pilu, hati saya berat melihatnya.",sedih
+193,"Pembiaran karhutla membuat rakyat jadi korban, tolong tindak pelakunya!",marah
+194,"Asap karhutla membuat udara sulit dihirup, sedih sekali.",sedih
+195,"Perusahaan yang lalai membuat rakyat jadi korban, warga yang menderita.",marah
+196,Warga yang terdampak merusak kehidupan banyak makhluk hidup di kampung kami.,sedih
+197,"Sedih, sekolah diliburkan karena kabut asap pekat, anak-anak jadi kehilangan waktu belajar.",sedih
+198,"Marah banget, hutan dibakar demi keuntungan sesaat, lalu rakyat yang sakit dan menderita.",marah
+199,"Perusahaan yang lalai dibiarkan terus berulang, warga yang menderita.",marah
+200,"Kabar karhutla bikin hati pilu, sedih sekali.",sedih
